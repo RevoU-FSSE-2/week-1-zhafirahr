@@ -1,2 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/l9v8sNrv)
-Test
+# Hello
+## This is F.R's Blog 
+### Silahkan Klik Link di bawah ini
+[link](zhafirahr.netlify.app)
+<h1>Blog ini berisi profil singkat saya</h1>
+<h2>Blog ini dibuat dengan HTML,CSS dan sedikit Javascript</h2>
+<h3>Selamat Menikmati</h3>
